@@ -13,9 +13,19 @@
 		5C46586724E36EDE0058D4DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C46586524E36EDE0058D4DE /* Main.storyboard */; };
 		5C46586924E36EDF0058D4DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C46586824E36EDF0058D4DE /* Assets.xcassets */; };
 		5C46586C24E36EDF0058D4DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C46586A24E36EDF0058D4DE /* LaunchScreen.storyboard */; };
+		5C46587424E3BC200058D4DE /* dog1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587324E3BC200058D4DE /* dog1.png */; };
+		5C46587E24E3C1390058D4DE /* 快龍.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587624E3C1390058D4DE /* 快龍.png */; };
+		5C46587F24E3C1390058D4DE /* wuling.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587724E3C1390058D4DE /* wuling.jpg */; };
+		5C46588024E3C1390058D4DE /* 卡比獸.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587824E3C1390058D4DE /* 卡比獸.png */; };
+		5C46588124E3C1390058D4DE /* 噴火龍.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587924E3C1390058D4DE /* 噴火龍.png */; };
+		5C46588224E3C1390058D4DE /* coffee_to_go.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587A24E3C1390058D4DE /* coffee_to_go.png */; };
+		5C46588324E3C1390058D4DE /* 乘龍.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587B24E3C1390058D4DE /* 乘龍.png */; };
+		5C46588424E3C1390058D4DE /* 吉利蛋.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587C24E3C1390058D4DE /* 吉利蛋.png */; };
+		5C46588524E3C1390058D4DE /* 水箭龜.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C46587D24E3C1390058D4DE /* 水箭龜.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C43B96C24EA50C500A8674D /* TestGPS.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TestGPS.gpx; sourceTree = "<group>"; };
 		5C46585C24E36EDE0058D4DE /* AppleMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C46585F24E36EDE0058D4DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5C46586124E36EDE0058D4DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +34,15 @@
 		5C46586824E36EDF0058D4DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C46586B24E36EDF0058D4DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C46586D24E36EDF0058D4DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C46587324E3BC200058D4DE /* dog1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dog1.png; path = ../../../../img/dog1.png; sourceTree = "<group>"; };
+		5C46587624E3C1390058D4DE /* 快龍.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "快龍.png"; sourceTree = "<group>"; };
+		5C46587724E3C1390058D4DE /* wuling.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wuling.jpg; sourceTree = "<group>"; };
+		5C46587824E3C1390058D4DE /* 卡比獸.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "卡比獸.png"; sourceTree = "<group>"; };
+		5C46587924E3C1390058D4DE /* 噴火龍.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "噴火龍.png"; sourceTree = "<group>"; };
+		5C46587A24E3C1390058D4DE /* coffee_to_go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coffee_to_go.png; sourceTree = "<group>"; };
+		5C46587B24E3C1390058D4DE /* 乘龍.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "乘龍.png"; sourceTree = "<group>"; };
+		5C46587C24E3C1390058D4DE /* 吉利蛋.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "吉利蛋.png"; sourceTree = "<group>"; };
+		5C46587D24E3C1390058D4DE /* 水箭龜.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "水箭龜.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +75,8 @@
 		5C46585E24E36EDE0058D4DE /* AppleMap */ = {
 			isa = PBXGroup;
 			children = (
+				5C46587524E3C1390058D4DE /* images */,
+				5C46587324E3BC200058D4DE /* dog1.png */,
 				5C46585F24E36EDE0058D4DE /* AppDelegate.swift */,
 				5C46586124E36EDE0058D4DE /* SceneDelegate.swift */,
 				5C46586324E36EDE0058D4DE /* ViewController.swift */,
@@ -63,8 +84,25 @@
 				5C46586824E36EDF0058D4DE /* Assets.xcassets */,
 				5C46586A24E36EDF0058D4DE /* LaunchScreen.storyboard */,
 				5C46586D24E36EDF0058D4DE /* Info.plist */,
+				5C43B96C24EA50C500A8674D /* TestGPS.gpx */,
 			);
 			path = AppleMap;
+			sourceTree = "<group>";
+		};
+		5C46587524E3C1390058D4DE /* images */ = {
+			isa = PBXGroup;
+			children = (
+				5C46587624E3C1390058D4DE /* 快龍.png */,
+				5C46587724E3C1390058D4DE /* wuling.jpg */,
+				5C46587824E3C1390058D4DE /* 卡比獸.png */,
+				5C46587924E3C1390058D4DE /* 噴火龍.png */,
+				5C46587A24E3C1390058D4DE /* coffee_to_go.png */,
+				5C46587B24E3C1390058D4DE /* 乘龍.png */,
+				5C46587C24E3C1390058D4DE /* 吉利蛋.png */,
+				5C46587D24E3C1390058D4DE /* 水箭龜.png */,
+			);
+			name = images;
+			path = ../../../../images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +163,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C46588424E3C1390058D4DE /* 吉利蛋.png in Resources */,
+				5C46588324E3C1390058D4DE /* 乘龍.png in Resources */,
+				5C46588024E3C1390058D4DE /* 卡比獸.png in Resources */,
+				5C46588524E3C1390058D4DE /* 水箭龜.png in Resources */,
+				5C46587E24E3C1390058D4DE /* 快龍.png in Resources */,
+				5C46587F24E3C1390058D4DE /* wuling.jpg in Resources */,
 				5C46586C24E36EDF0058D4DE /* LaunchScreen.storyboard in Resources */,
 				5C46586924E36EDF0058D4DE /* Assets.xcassets in Resources */,
+				5C46587424E3BC200058D4DE /* dog1.png in Resources */,
+				5C46588224E3C1390058D4DE /* coffee_to_go.png in Resources */,
+				5C46588124E3C1390058D4DE /* 噴火龍.png in Resources */,
 				5C46586724E36EDE0058D4DE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +332,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AYLQX6Z94X;
 				INFOPLIST_FILE = AppleMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +350,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AYLQX6Z94X;
 				INFOPLIST_FILE = AppleMap/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
